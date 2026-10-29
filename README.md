@@ -1,4 +1,15 @@
-<div align="center">
+## 🚀 Projeto publicado
+
+**Acesse o site:** https://elegance-wine.vercel.app/
+
+## 🛠️ Tecnologias utilizadas
+
+- React
+- TypeScript
+- Vite
+- CSS
+- Vercel
+- <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
