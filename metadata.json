@@ -1,0 +1,6 @@
+{
+  "name": "ELEGANCE Móveis Planejados",
+  "description": "Projetos exclusivos para quem valoriza sofisticação, funcionalidade e acabamento impecável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
